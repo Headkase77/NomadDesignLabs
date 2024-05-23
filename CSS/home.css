@@ -5,7 +5,7 @@
     position: relative;
     border: 10px solid black;
     height: 90vh; 
-    justify-content: flex-start;
+    justify-content: center;
     align-items: center;
     flex-wrap: wrap;
 }
@@ -23,7 +23,6 @@
 
 #box1{
     display: flex;
-    position: absolute;
     top: 0;
     background-color: red;
 }
